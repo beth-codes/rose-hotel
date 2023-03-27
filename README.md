@@ -38,6 +38,6 @@ This theme includes the following features:
 
 ## Preview
 
-- [Live preview:](http://rosehotel.x10.mx/)
+- [Live preview](http://rosehotel.x10.mx/)
 
 
